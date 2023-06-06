@@ -1,0 +1,66 @@
+.header__container {
+    background-color: rgb(172, 142, 226);
+    font-style: oblique ;
+    text-align: justify;
+    color: rgb(140, 240, 148);
+    padding: 1%;
+    margin: 0%;
+    border-color: black;
+    border-style:solid;
+
+    
+}
+
+.img__principal {
+    width: 15%;
+    height: 20%;
+    border-radius: 50%;
+    box-shadow: 5px 10px #0f0f0fcc ;
+    padding: 10px;
+    border: solid;
+}
+
+.tittle__principal {
+    color: rgb(52, 13, 224);
+
+}
+.parrafo_tittle {
+    color: chocolate;
+    font-style: italic;
+}
+.navbar {
+    background-color: #73739c;
+}
+
+.footer__principal h2{
+color: crimson;
+}
+.tittle__contact {
+    background-color: rgba(151, 132, 168, 0.5);
+    color: rgb(16, 38, 78);
+    text-align: center;
+}
+.formulario {
+    background-image: url("./assets/img/Premium\ Vector\ _\ Cat\ dog\ pet\ shop\ salon\ logo\ design\ vector\ simple\ icon\ template.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-style: italic;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    text-align: center;
+}
+.flexbox {
+    background-color: aquamarine;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.box {
+    background-color: aqua ;
+    border: 5px solid;
+    padding: 20px;
+    font-size: 15px;
+}
